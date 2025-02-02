@@ -2,11 +2,10 @@
 
 ## Table of Contents
 
-- [Objective](#objective)
-- [Installation](#dataset-description)
-- [Data Description](#data-description)
+- [Overview](#overview)
+- [Dataset Description](#dataset-description)
 - [Tasks Completed](#tasks-completed)
-- [Results and Key Takeaways](#results-and-key-takeaways)
+- [Results And Key Takeaways](#results-and-key-takeaways)
 - [Customer Results Report](#customer-results-report)
 - [Important Visualisations](#important-visualisations)
 
@@ -66,7 +65,7 @@ The dataset consists of three files:
 
 ---
 
-**Results and Key Takeaways**
+## **Results and Key Takeaways**
 ### Business Insights Derived from Exploratory Data Analysis (EDA)
 
 1. Signup Trends Over the Years
@@ -102,7 +101,7 @@ The clustering results demonstrate well-separated and well-defined clusters, wit
 Overall, this segmentation provides valuable insights into customer purchasing behavior and can be used for targeted marketing and personalized customer engagement.
 
 
-**Important Visualisations**
+## **Important Visualisations**
 
 <img src="https://github.com/user-attachments/assets/7b2b8462-5ee0-4c04-a940-3f2c15c9a119" alt="Screenshot 2025-02-02 231338" width="700">
 <br><br><br><br>
